@@ -1,16 +1,10 @@
 from bs4 import BeautifulSoup
 
-
 xstring = open("myxmlfile.xml", "r")
-
 soup = BeautifulSoup(xstring, 'xml')
-
 # print(soup.text)
-
 items = soup.find_all('item')
-
 # print(items)
-
 datalist = []
 
 for item in items:

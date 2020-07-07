@@ -1,7 +1,7 @@
 import json
 import matplotlib.pyplot as plt
 
-jstring = open("myjsonfile.json", "r").read()
+jstring = open("weather/myjsonfile.json", "r").read()
 jsonData = json.loads(jstring)
 
 maxTempList = []

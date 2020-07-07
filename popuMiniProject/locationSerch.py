@@ -2,25 +2,13 @@ import csv
 f = open('popuMiniProject/202006_202006_연령별인구현황_월간_전국.csv')
 data = csv.reader(f)
 
-# for row in data:
-#     if '서울특별시 성북구 안암동(1129060000)' == row[0]:
-#         print(row)
-
-# for row in data:
-#     if '장위' in row[0]:
-#         print(row)
-
-# for row in data:
-#     if '성북구' in row[0]:
-#         for i in row[3:]:
-#             print(i)
-
 mn = 10000
 result = []
 result_name = ''
 
 home = []
-home_name = '중곡제3동'
+home_name = input("동 이름을 입력해 주세요!! :: ")
+
 home_linenum = 0
 for row in data:
     if home_name in row[0]:

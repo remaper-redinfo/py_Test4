@@ -17,7 +17,7 @@ f.reverse()
 
 plt.style.use('ggplot')
 plt.rc('font', family='Malgun Gothic')
-plt.figure(figsize=(10, 5), dpi=300)
+plt.figure(figsize=(10, 5), dpi=150)
 plt.scatter(m, f, c=range(101), alpha=0.5, cmap='jet')
 plt.colorbar()
 plt.plot(range(max(m)), range(max(m)), 'g')

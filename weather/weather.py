@@ -26,6 +26,8 @@ url = "http://apis.data.go.kr/1360000/AsosDalyInfoService/getWthrDataList?servic
 # urllib으로 http 통신 => HTTPResponse
 response = urllib.request.urlopen(url)
 
+# print(response.read())
+
 # if response.status == 200:
 #     print(response.read())
 # else:
@@ -47,18 +49,18 @@ items = dom.getElementsByTagName("item")
 
 # items에 저장된 Object를 이해해 보고 특정 변수를 가져와 보자
 print(type(items))
-print(items)
+print(items.length)
 
-print(type(items[0].childNodes[0]))
-print(items[0].childNodes[0])
-print(items[0].childNodes[0].nodeName)
+print(type(items[0].childNodes[1]))
+print(items[0].childNodes[1])
+print(items[0].childNodes[1].nodeName)
 
-print(type(items[0].childNodes[0].childNodes[0]))
-print(items[0].childNodes[0].childNodes[0])
+print(type(items[0].childNodes[1].childNodes[0]))
+print(items[0].childNodes[1].childNodes[0])
 
-print(items[0].childNodes[0].firstChild.nodeValue)
-print(items[0].childNodes[0].lastChild.nodeValue)
-print(items[0].childNodes[0].childNodes[0].nodeValue)
+print(items[0].childNodes[1].firstChild.nodeValue)
+print(items[0].childNodes[1].lastChild.nodeValue)
+print(items[0].childNodes[1].childNodes[0].nodeValue)
 
 # xml 타입을 dic 타입으로 변경하고 리스트에 저장
 datalist = []

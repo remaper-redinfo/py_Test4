@@ -1,6 +1,6 @@
 import json
 
-jstring = open("myjsonfile.json", "r").read()
+jstring = open("weather/myjsonfile.json", "r").read()
 jsonData = json.loads(jstring)
 
 # print(type(jsonData))
@@ -8,15 +8,16 @@ jsonData = json.loads(jstring)
 
 for item in jsonData:
     item["maxTemp"] = float(item["maxTemp"])
-    print(item)
+    item["minTemp"] = float(item["minTemp"])
+    # print(item)
 
 maxTemp = 0
 maxTempdate = ""
 
 for item in jsonData:
-    if maxTemp < item["maxTemp"]:
+    if maxTemp > item["minTemp"]:
         maxTempdate = item["date"]
-        maxTemp = item["maxTemp"]
+        maxTemp = item["minTemp"]
 
 print(maxTemp)
 print(maxTempdate)
