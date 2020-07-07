@@ -1,0 +1,2557 @@
+[
+    {
+        "date": "2019-01-01",
+        "location": "108",
+        "avgTemp": "-5.0",
+        "minTemp": "-8.2",
+        "maxTemp": "-0.6"
+    },
+    {
+        "date": "2019-01-02",
+        "location": "108",
+        "avgTemp": "-4.9",
+        "minTemp": "-8.8",
+        "maxTemp": "0.2"
+    },
+    {
+        "date": "2019-01-03",
+        "location": "108",
+        "avgTemp": "-3.5",
+        "minTemp": "-8.4",
+        "maxTemp": "3.2"
+    },
+    {
+        "date": "2019-01-04",
+        "location": "108",
+        "avgTemp": "-1.1",
+        "minTemp": "-6.2",
+        "maxTemp": "4.1"
+    },
+    {
+        "date": "2019-01-05",
+        "location": "108",
+        "avgTemp": "-2.8",
+        "minTemp": "-5.5",
+        "maxTemp": "1.1"
+    },
+    {
+        "date": "2019-01-06",
+        "location": "108",
+        "avgTemp": "-2.8",
+        "minTemp": "-6.3",
+        "maxTemp": "2.7"
+    },
+    {
+        "date": "2019-01-07",
+        "location": "108",
+        "avgTemp": "-1.9",
+        "minTemp": "-6.2",
+        "maxTemp": "3.1"
+    },
+    {
+        "date": "2019-01-08",
+        "location": "108",
+        "avgTemp": "-3.5",
+        "minTemp": "-7.2",
+        "maxTemp": "0.5"
+    },
+    {
+        "date": "2019-01-09",
+        "location": "108",
+        "avgTemp": "-4.7",
+        "minTemp": "-9.4",
+        "maxTemp": "1.3"
+    },
+    {
+        "date": "2019-01-10",
+        "location": "108",
+        "avgTemp": "-0.6",
+        "minTemp": "-4.5",
+        "maxTemp": "3.0"
+    },
+    {
+        "date": "2019-01-11",
+        "location": "108",
+        "avgTemp": "2.4",
+        "minTemp": "-0.4",
+        "maxTemp": "7.2"
+    },
+    {
+        "date": "2019-01-12",
+        "location": "108",
+        "avgTemp": "2.8",
+        "minTemp": "-0.6",
+        "maxTemp": "8.0"
+    },
+    {
+        "date": "2019-01-13",
+        "location": "108",
+        "avgTemp": "1.2",
+        "minTemp": "-3.0",
+        "maxTemp": "7.6"
+    },
+    {
+        "date": "2019-01-14",
+        "location": "108",
+        "avgTemp": "1.4",
+        "minTemp": "-2.4",
+        "maxTemp": "5.3"
+    },
+    {
+        "date": "2019-01-15",
+        "location": "108",
+        "avgTemp": "-1.7",
+        "minTemp": "-7.2",
+        "maxTemp": "2.6"
+    },
+    {
+        "date": "2019-01-16",
+        "location": "108",
+        "avgTemp": "-5.2",
+        "minTemp": "-10.1",
+        "maxTemp": "-1.1"
+    },
+    {
+        "date": "2019-01-17",
+        "location": "108",
+        "avgTemp": "-0.3",
+        "minTemp": "-3.2",
+        "maxTemp": "4.0"
+    },
+    {
+        "date": "2019-01-18",
+        "location": "108",
+        "avgTemp": "0.6",
+        "minTemp": "-4.6",
+        "maxTemp": "6.7"
+    },
+    {
+        "date": "2019-01-19",
+        "location": "108",
+        "avgTemp": "3.6",
+        "minTemp": "0.0",
+        "maxTemp": "8.5"
+    },
+    {
+        "date": "2019-01-20",
+        "location": "108",
+        "avgTemp": "-1.4",
+        "minTemp": "-5.5",
+        "maxTemp": "4.0"
+    },
+    {
+        "date": "2019-01-21",
+        "location": "108",
+        "avgTemp": "-1.2",
+        "minTemp": "-6.7",
+        "maxTemp": "4.2"
+    },
+    {
+        "date": "2019-01-22",
+        "location": "108",
+        "avgTemp": "1.7",
+        "minTemp": "-3.3",
+        "maxTemp": "7.1"
+    },
+    {
+        "date": "2019-01-23",
+        "location": "108",
+        "avgTemp": "2.0",
+        "minTemp": "-0.8",
+        "maxTemp": "7.0"
+    },
+    {
+        "date": "2019-01-24",
+        "location": "108",
+        "avgTemp": "0.1",
+        "minTemp": "-4.6",
+        "maxTemp": "6.5"
+    },
+    {
+        "date": "2019-01-25",
+        "location": "108",
+        "avgTemp": "-1.2",
+        "minTemp": "-3.8",
+        "maxTemp": "2.6"
+    },
+    {
+        "date": "2019-01-26",
+        "location": "108",
+        "avgTemp": "-2.5",
+        "minTemp": "-6.5",
+        "maxTemp": "2.4"
+    },
+    {
+        "date": "2019-01-27",
+        "location": "108",
+        "avgTemp": "-0.1",
+        "minTemp": "-6.6",
+        "maxTemp": "5.1"
+    },
+    {
+        "date": "2019-01-28",
+        "location": "108",
+        "avgTemp": "1.2",
+        "minTemp": "-2.4",
+        "maxTemp": "4.5"
+    },
+    {
+        "date": "2019-01-29",
+        "location": "108",
+        "avgTemp": "-0.2",
+        "minTemp": "-5.6",
+        "maxTemp": "7.0"
+    },
+    {
+        "date": "2019-01-30",
+        "location": "108",
+        "avgTemp": "1.8",
+        "minTemp": "-2.8",
+        "maxTemp": "6.6"
+    },
+    {
+        "date": "2019-01-31",
+        "location": "108",
+        "avgTemp": "-2.0",
+        "minTemp": "-6.2",
+        "maxTemp": "2.3"
+    },
+    {
+        "date": "2019-02-01",
+        "location": "108",
+        "avgTemp": "-2.1",
+        "minTemp": "-7.4",
+        "maxTemp": "2.8"
+    },
+    {
+        "date": "2019-02-02",
+        "location": "108",
+        "avgTemp": "1.4",
+        "minTemp": "-3.2",
+        "maxTemp": "6.1"
+    },
+    {
+        "date": "2019-02-03",
+        "location": "108",
+        "avgTemp": "3.3",
+        "minTemp": "2.0",
+        "maxTemp": "4.9"
+    },
+    {
+        "date": "2019-02-04",
+        "location": "108",
+        "avgTemp": "-0.6",
+        "minTemp": "-3.3",
+        "maxTemp": "3.0"
+    },
+    {
+        "date": "2019-02-05",
+        "location": "108",
+        "avgTemp": "2.8",
+        "minTemp": "-3.6",
+        "maxTemp": "10.1"
+    },
+    {
+        "date": "2019-02-06",
+        "location": "108",
+        "avgTemp": "5.1",
+        "minTemp": "0.1",
+        "maxTemp": "9.3"
+    },
+    {
+        "date": "2019-02-07",
+        "location": "108",
+        "avgTemp": "-2.1",
+        "minTemp": "-8.2",
+        "maxTemp": "6.3"
+    },
+    {
+        "date": "2019-02-08",
+        "location": "108",
+        "avgTemp": "-6.1",
+        "minTemp": "-10.2",
+        "maxTemp": "-1.3"
+    },
+    {
+        "date": "2019-02-09",
+        "location": "108",
+        "avgTemp": "-5.4",
+        "minTemp": "-8.6",
+        "maxTemp": "-1.9"
+    },
+    {
+        "date": "2019-02-10",
+        "location": "108",
+        "avgTemp": "-5.0",
+        "minTemp": "-9.1",
+        "maxTemp": "-1.9"
+    },
+    {
+        "date": "2019-02-11",
+        "location": "108",
+        "avgTemp": "-3.0",
+        "minTemp": "-7.5",
+        "maxTemp": "2.0"
+    },
+    {
+        "date": "2019-02-12",
+        "location": "108",
+        "avgTemp": "-0.6",
+        "minTemp": "-4.1",
+        "maxTemp": "3.7"
+    },
+    {
+        "date": "2019-02-13",
+        "location": "108",
+        "avgTemp": "-2.1",
+        "minTemp": "-5.7",
+        "maxTemp": "2.5"
+    },
+    {
+        "date": "2019-02-14",
+        "location": "108",
+        "avgTemp": "-0.5",
+        "minTemp": "-5.9",
+        "maxTemp": "6.3"
+    },
+    {
+        "date": "2019-02-15",
+        "location": "108",
+        "avgTemp": "-0.8",
+        "minTemp": "-2.9",
+        "maxTemp": "0.9"
+    },
+    {
+        "date": "2019-02-16",
+        "location": "108",
+        "avgTemp": "-2.7",
+        "minTemp": "-5.1",
+        "maxTemp": "1.5"
+    },
+    {
+        "date": "2019-02-17",
+        "location": "108",
+        "avgTemp": "-1.8",
+        "minTemp": "-6.8",
+        "maxTemp": "4.6"
+    },
+    {
+        "date": "2019-02-18",
+        "location": "108",
+        "avgTemp": "0.9",
+        "minTemp": "-4.7",
+        "maxTemp": "5.9"
+    },
+    {
+        "date": "2019-02-19",
+        "location": "108",
+        "avgTemp": "1.4",
+        "minTemp": "0.2",
+        "maxTemp": "3.0"
+    },
+    {
+        "date": "2019-02-20",
+        "location": "108",
+        "avgTemp": "1.7",
+        "minTemp": "-0.1",
+        "maxTemp": "4.5"
+    },
+    {
+        "date": "2019-02-21",
+        "location": "108",
+        "avgTemp": "2.4",
+        "minTemp": "-2.6",
+        "maxTemp": "9.0"
+    },
+    {
+        "date": "2019-02-22",
+        "location": "108",
+        "avgTemp": "4.0",
+        "minTemp": "-1.6",
+        "maxTemp": "10.8"
+    },
+    {
+        "date": "2019-02-23",
+        "location": "108",
+        "avgTemp": "6.8",
+        "minTemp": "0.5",
+        "maxTemp": "14.5"
+    },
+    {
+        "date": "2019-02-24",
+        "location": "108",
+        "avgTemp": "6.3",
+        "minTemp": "1.2",
+        "maxTemp": "13.7"
+    },
+    {
+        "date": "2019-02-25",
+        "location": "108",
+        "avgTemp": "4.7",
+        "minTemp": "1.3",
+        "maxTemp": "10.2"
+    },
+    {
+        "date": "2019-02-26",
+        "location": "108",
+        "avgTemp": "5.2",
+        "minTemp": "-1.5",
+        "maxTemp": "12.0"
+    },
+    {
+        "date": "2019-02-27",
+        "location": "108",
+        "avgTemp": "7.8",
+        "minTemp": "4.7",
+        "maxTemp": "14.0"
+    },
+    {
+        "date": "2019-02-28",
+        "location": "108",
+        "avgTemp": "6.6",
+        "minTemp": "2.0",
+        "maxTemp": "12.8"
+    },
+    {
+        "date": "2019-03-01",
+        "location": "108",
+        "avgTemp": "6.6",
+        "minTemp": "1.2",
+        "maxTemp": "13.0"
+    },
+    {
+        "date": "2019-03-02",
+        "location": "108",
+        "avgTemp": "7.8",
+        "minTemp": "1.3",
+        "maxTemp": "14.7"
+    },
+    {
+        "date": "2019-03-03",
+        "location": "108",
+        "avgTemp": "9.4",
+        "minTemp": "2.5",
+        "maxTemp": "16.1"
+    },
+    {
+        "date": "2019-03-04",
+        "location": "108",
+        "avgTemp": "9.9",
+        "minTemp": "5.0",
+        "maxTemp": "16.3"
+    },
+    {
+        "date": "2019-03-05",
+        "location": "108",
+        "avgTemp": "8.4",
+        "minTemp": "5.6",
+        "maxTemp": "12.9"
+    },
+    {
+        "date": "2019-03-06",
+        "location": "108",
+        "avgTemp": "8.4",
+        "minTemp": "5.7",
+        "maxTemp": "12.4"
+    },
+    {
+        "date": "2019-03-07",
+        "location": "108",
+        "avgTemp": "7.0",
+        "minTemp": "3.1",
+        "maxTemp": "12.7"
+    },
+    {
+        "date": "2019-03-08",
+        "location": "108",
+        "avgTemp": "6.1",
+        "minTemp": "0.6",
+        "maxTemp": "13.4"
+    },
+    {
+        "date": "2019-03-09",
+        "location": "108",
+        "avgTemp": "7.2",
+        "minTemp": "-0.4",
+        "maxTemp": "14.9"
+    },
+    {
+        "date": "2019-03-10",
+        "location": "108",
+        "avgTemp": "10.1",
+        "minTemp": "6.7",
+        "maxTemp": "15.3"
+    },
+    {
+        "date": "2019-03-11",
+        "location": "108",
+        "avgTemp": "6.6",
+        "minTemp": "3.5",
+        "maxTemp": "10.0"
+    },
+    {
+        "date": "2019-03-12",
+        "location": "108",
+        "avgTemp": "3.9",
+        "minTemp": "-0.3",
+        "maxTemp": "7.9"
+    },
+    {
+        "date": "2019-03-13",
+        "location": "108",
+        "avgTemp": "3.5",
+        "minTemp": "-0.4",
+        "maxTemp": "8.5"
+    },
+    {
+        "date": "2019-03-14",
+        "location": "108",
+        "avgTemp": "5.0",
+        "minTemp": "-1.7",
+        "maxTemp": "10.0"
+    },
+    {
+        "date": "2019-03-15",
+        "location": "108",
+        "avgTemp": "5.5",
+        "minTemp": "1.6",
+        "maxTemp": "11.3"
+    },
+    {
+        "date": "2019-03-16",
+        "location": "108",
+        "avgTemp": "4.3",
+        "minTemp": "0.2",
+        "maxTemp": "9.2"
+    },
+    {
+        "date": "2019-03-17",
+        "location": "108",
+        "avgTemp": "6.3",
+        "minTemp": "2.6",
+        "maxTemp": "12.4"
+    },
+    {
+        "date": "2019-03-18",
+        "location": "108",
+        "avgTemp": "7.1",
+        "minTemp": "1.4",
+        "maxTemp": "14.4"
+    },
+    {
+        "date": "2019-03-19",
+        "location": "108",
+        "avgTemp": "10.0",
+        "minTemp": "3.4",
+        "maxTemp": "16.7"
+    },
+    {
+        "date": "2019-03-20",
+        "location": "108",
+        "avgTemp": "10.3",
+        "minTemp": "7.1",
+        "maxTemp": "14.6"
+    },
+    {
+        "date": "2019-03-21",
+        "location": "108",
+        "avgTemp": "7.1",
+        "minTemp": "1.9",
+        "maxTemp": "11.1"
+    },
+    {
+        "date": "2019-03-22",
+        "location": "108",
+        "avgTemp": "3.3",
+        "minTemp": "-0.7",
+        "maxTemp": "8.3"
+    },
+    {
+        "date": "2019-03-23",
+        "location": "108",
+        "avgTemp": "3.3",
+        "minTemp": "-0.4",
+        "maxTemp": "8.2"
+    },
+    {
+        "date": "2019-03-24",
+        "location": "108",
+        "avgTemp": "4.3",
+        "minTemp": "-0.8",
+        "maxTemp": "9.7"
+    },
+    {
+        "date": "2019-03-25",
+        "location": "108",
+        "avgTemp": "7.3",
+        "minTemp": "2.9",
+        "maxTemp": "11.5"
+    },
+    {
+        "date": "2019-03-26",
+        "location": "108",
+        "avgTemp": "11.4",
+        "minTemp": "7.4",
+        "maxTemp": "17.6"
+    },
+    {
+        "date": "2019-03-27",
+        "location": "108",
+        "avgTemp": "11.6",
+        "minTemp": "8.9",
+        "maxTemp": "16.2"
+    },
+    {
+        "date": "2019-03-28",
+        "location": "108",
+        "avgTemp": "9.4",
+        "minTemp": "5.6",
+        "maxTemp": "14.6"
+    },
+    {
+        "date": "2019-03-29",
+        "location": "108",
+        "avgTemp": "9.2",
+        "minTemp": "5.5",
+        "maxTemp": "15.1"
+    },
+    {
+        "date": "2019-03-30",
+        "location": "108",
+        "avgTemp": "5.2",
+        "minTemp": "3.5",
+        "maxTemp": "8.4"
+    },
+    {
+        "date": "2019-03-31",
+        "location": "108",
+        "avgTemp": "4.4",
+        "minTemp": "2.6",
+        "maxTemp": "8.4"
+    },
+    {
+        "date": "2019-04-01",
+        "location": "108",
+        "avgTemp": "5.5",
+        "minTemp": "0.3",
+        "maxTemp": "11.3"
+    },
+    {
+        "date": "2019-04-02",
+        "location": "108",
+        "avgTemp": "6.7",
+        "minTemp": "1.3",
+        "maxTemp": "13.0"
+    },
+    {
+        "date": "2019-04-03",
+        "location": "108",
+        "avgTemp": "7.6",
+        "minTemp": "1.9",
+        "maxTemp": "13.6"
+    },
+    {
+        "date": "2019-04-04",
+        "location": "108",
+        "avgTemp": "9.2",
+        "minTemp": "3.0",
+        "maxTemp": "15.7"
+    },
+    {
+        "date": "2019-04-05",
+        "location": "108",
+        "avgTemp": "11.4",
+        "minTemp": "7.0",
+        "maxTemp": "17.2"
+    },
+    {
+        "date": "2019-04-06",
+        "location": "108",
+        "avgTemp": "9.3",
+        "minTemp": "5.9",
+        "maxTemp": "12.2"
+    },
+    {
+        "date": "2019-04-07",
+        "location": "108",
+        "avgTemp": "12.6",
+        "minTemp": "5.6",
+        "maxTemp": "20.3"
+    },
+    {
+        "date": "2019-04-08",
+        "location": "108",
+        "avgTemp": "11.6",
+        "minTemp": "7.6",
+        "maxTemp": "17.2"
+    },
+    {
+        "date": "2019-04-09",
+        "location": "108",
+        "avgTemp": "9.2",
+        "minTemp": "4.7",
+        "maxTemp": "13.9"
+    },
+    {
+        "date": "2019-04-10",
+        "location": "108",
+        "avgTemp": "7.1",
+        "minTemp": "4.7",
+        "maxTemp": "10.2"
+    },
+    {
+        "date": "2019-04-11",
+        "location": "108",
+        "avgTemp": "9.5",
+        "minTemp": "4.3",
+        "maxTemp": "15.7"
+    },
+    {
+        "date": "2019-04-12",
+        "location": "108",
+        "avgTemp": "11.4",
+        "minTemp": "5.5",
+        "maxTemp": "18.4"
+    },
+    {
+        "date": "2019-04-13",
+        "location": "108",
+        "avgTemp": "11.8",
+        "minTemp": "6.2",
+        "maxTemp": "17.9"
+    },
+    {
+        "date": "2019-04-14",
+        "location": "108",
+        "avgTemp": "9.6",
+        "minTemp": "6.9",
+        "maxTemp": "13.6"
+    },
+    {
+        "date": "2019-04-15",
+        "location": "108",
+        "avgTemp": "11.6",
+        "minTemp": "3.9",
+        "maxTemp": "18.1"
+    },
+    {
+        "date": "2019-04-16",
+        "location": "108",
+        "avgTemp": "14.9",
+        "minTemp": "6.8",
+        "maxTemp": "22.6"
+    },
+    {
+        "date": "2019-04-17",
+        "location": "108",
+        "avgTemp": "15.3",
+        "minTemp": "9.1",
+        "maxTemp": "21.8"
+    },
+    {
+        "date": "2019-04-18",
+        "location": "108",
+        "avgTemp": "12.6",
+        "minTemp": "10.4",
+        "maxTemp": "16.2"
+    },
+    {
+        "date": "2019-04-19",
+        "location": "108",
+        "avgTemp": "13.8",
+        "minTemp": "9.6",
+        "maxTemp": "19.7"
+    },
+    {
+        "date": "2019-04-20",
+        "location": "108",
+        "avgTemp": "14.3",
+        "minTemp": "9.7",
+        "maxTemp": "19.1"
+    },
+    {
+        "date": "2019-04-21",
+        "location": "108",
+        "avgTemp": "14.8",
+        "minTemp": "12.2",
+        "maxTemp": "20.2"
+    },
+    {
+        "date": "2019-04-22",
+        "location": "108",
+        "avgTemp": "19.3",
+        "minTemp": "10.7",
+        "maxTemp": "28.2"
+    },
+    {
+        "date": "2019-04-23",
+        "location": "108",
+        "avgTemp": "20.4",
+        "minTemp": "15.3",
+        "maxTemp": "25.5"
+    },
+    {
+        "date": "2019-04-24",
+        "location": "108",
+        "avgTemp": "19.5",
+        "minTemp": "15.8",
+        "maxTemp": "25.9"
+    },
+    {
+        "date": "2019-04-25",
+        "location": "108",
+        "avgTemp": "13.2",
+        "minTemp": "9.4",
+        "maxTemp": "17.2"
+    },
+    {
+        "date": "2019-04-26",
+        "location": "108",
+        "avgTemp": "8.4",
+        "minTemp": "6.2",
+        "maxTemp": "9.9"
+    },
+    {
+        "date": "2019-04-27",
+        "location": "108",
+        "avgTemp": "11.6",
+        "minTemp": "4.1",
+        "maxTemp": "18.2"
+    },
+    {
+        "date": "2019-04-28",
+        "location": "108",
+        "avgTemp": "12.9",
+        "minTemp": "9.9",
+        "maxTemp": "16.6"
+    },
+    {
+        "date": "2019-04-29",
+        "location": "108",
+        "avgTemp": "13.0",
+        "minTemp": "8.3",
+        "maxTemp": "17.3"
+    },
+    {
+        "date": "2019-04-30",
+        "location": "108",
+        "avgTemp": "15.5",
+        "minTemp": "9.0",
+        "maxTemp": "22.5"
+    },
+    {
+        "date": "2019-05-01",
+        "location": "108",
+        "avgTemp": "16.4",
+        "minTemp": "11.2",
+        "maxTemp": "22.2"
+    },
+    {
+        "date": "2019-05-02",
+        "location": "108",
+        "avgTemp": "17.1",
+        "minTemp": "10.6",
+        "maxTemp": "25.3"
+    },
+    {
+        "date": "2019-05-03",
+        "location": "108",
+        "avgTemp": "17.9",
+        "minTemp": "10.1",
+        "maxTemp": "26.1"
+    },
+    {
+        "date": "2019-05-04",
+        "location": "108",
+        "avgTemp": "19.5",
+        "minTemp": "12.0",
+        "maxTemp": "27.4"
+    },
+    {
+        "date": "2019-05-05",
+        "location": "108",
+        "avgTemp": "19.2",
+        "minTemp": "13.6",
+        "maxTemp": "26.5"
+    },
+    {
+        "date": "2019-05-06",
+        "location": "108",
+        "avgTemp": "14.5",
+        "minTemp": "9.8",
+        "maxTemp": "19.8"
+    },
+    {
+        "date": "2019-05-07",
+        "location": "108",
+        "avgTemp": "15.0",
+        "minTemp": "8.4",
+        "maxTemp": "21.9"
+    },
+    {
+        "date": "2019-05-08",
+        "location": "108",
+        "avgTemp": "15.6",
+        "minTemp": "10.1",
+        "maxTemp": "21.3"
+    },
+    {
+        "date": "2019-05-09",
+        "location": "108",
+        "avgTemp": "16.6",
+        "minTemp": "11.7",
+        "maxTemp": "22.9"
+    },
+    {
+        "date": "2019-05-10",
+        "location": "108",
+        "avgTemp": "17.8",
+        "minTemp": "10.3",
+        "maxTemp": "26.8"
+    },
+    {
+        "date": "2019-05-11",
+        "location": "108",
+        "avgTemp": "20.3",
+        "minTemp": "13.2",
+        "maxTemp": "28.3"
+    },
+    {
+        "date": "2019-05-12",
+        "location": "108",
+        "avgTemp": "21.6",
+        "minTemp": "14.7",
+        "maxTemp": "28.9"
+    },
+    {
+        "date": "2019-05-13",
+        "location": "108",
+        "avgTemp": "18.7",
+        "minTemp": "15.5",
+        "maxTemp": "22.8"
+    },
+    {
+        "date": "2019-05-14",
+        "location": "108",
+        "avgTemp": "19.6",
+        "minTemp": "12.9",
+        "maxTemp": "26.9"
+    },
+    {
+        "date": "2019-05-15",
+        "location": "108",
+        "avgTemp": "20.7",
+        "minTemp": "14.8",
+        "maxTemp": "28.0"
+    },
+    {
+        "date": "2019-05-16",
+        "location": "108",
+        "avgTemp": "23.5",
+        "minTemp": "16.7",
+        "maxTemp": "30.0"
+    },
+    {
+        "date": "2019-05-17",
+        "location": "108",
+        "avgTemp": "23.6",
+        "minTemp": "17.6",
+        "maxTemp": "28.3"
+    },
+    {
+        "date": "2019-05-18",
+        "location": "108",
+        "avgTemp": "22.8",
+        "minTemp": "19.1",
+        "maxTemp": "25.9"
+    },
+    {
+        "date": "2019-05-19",
+        "location": "108",
+        "avgTemp": "19.4",
+        "minTemp": "17.9",
+        "maxTemp": "21.6"
+    },
+    {
+        "date": "2019-05-20",
+        "location": "108",
+        "avgTemp": "16.4",
+        "minTemp": "13.0",
+        "maxTemp": "20.2"
+    },
+    {
+        "date": "2019-05-21",
+        "location": "108",
+        "avgTemp": "17.2",
+        "minTemp": "11.7",
+        "maxTemp": "23.8"
+    },
+    {
+        "date": "2019-05-22",
+        "location": "108",
+        "avgTemp": "19.5",
+        "minTemp": "12.3",
+        "maxTemp": "26.5"
+    },
+    {
+        "date": "2019-05-23",
+        "location": "108",
+        "avgTemp": "22.1",
+        "minTemp": "15.0",
+        "maxTemp": "29.2"
+    },
+    {
+        "date": "2019-05-24",
+        "location": "108",
+        "avgTemp": "24.2",
+        "minTemp": "16.2",
+        "maxTemp": "33.4"
+    },
+    {
+        "date": "2019-05-25",
+        "location": "108",
+        "avgTemp": "23.4",
+        "minTemp": "18.4",
+        "maxTemp": "28.6"
+    },
+    {
+        "date": "2019-05-26",
+        "location": "108",
+        "avgTemp": "24.5",
+        "minTemp": "18.6",
+        "maxTemp": "31.1"
+    },
+    {
+        "date": "2019-05-27",
+        "location": "108",
+        "avgTemp": "17.8",
+        "minTemp": "14.3",
+        "maxTemp": "22.3"
+    },
+    {
+        "date": "2019-05-28",
+        "location": "108",
+        "avgTemp": "18.1",
+        "minTemp": "11.9",
+        "maxTemp": "24.6"
+    },
+    {
+        "date": "2019-05-29",
+        "location": "108",
+        "avgTemp": "20.3",
+        "minTemp": "13.3",
+        "maxTemp": "26.5"
+    },
+    {
+        "date": "2019-05-30",
+        "location": "108",
+        "avgTemp": "19.6",
+        "minTemp": "14.6",
+        "maxTemp": "24.5"
+    },
+    {
+        "date": "2019-05-31",
+        "location": "108",
+        "avgTemp": "19.1",
+        "minTemp": "16.1",
+        "maxTemp": "23.3"
+    },
+    {
+        "date": "2019-06-01",
+        "location": "108",
+        "avgTemp": "18.9",
+        "minTemp": "14.8",
+        "maxTemp": "23.7"
+    },
+    {
+        "date": "2019-06-02",
+        "location": "108",
+        "avgTemp": "21.1",
+        "minTemp": "14.1",
+        "maxTemp": "27.8"
+    },
+    {
+        "date": "2019-06-03",
+        "location": "108",
+        "avgTemp": "23.1",
+        "minTemp": "16.0",
+        "maxTemp": "29.5"
+    },
+    {
+        "date": "2019-06-04",
+        "location": "108",
+        "avgTemp": "22.6",
+        "minTemp": "17.6",
+        "maxTemp": "29.0"
+    },
+    {
+        "date": "2019-06-05",
+        "location": "108",
+        "avgTemp": "23.0",
+        "minTemp": "17.8",
+        "maxTemp": "29.6"
+    },
+    {
+        "date": "2019-06-06",
+        "location": "108",
+        "avgTemp": "21.2",
+        "minTemp": "18.6",
+        "maxTemp": "25.1"
+    },
+    {
+        "date": "2019-06-07",
+        "location": "108",
+        "avgTemp": "20.0",
+        "minTemp": "17.0",
+        "maxTemp": "24.7"
+    },
+    {
+        "date": "2019-06-08",
+        "location": "108",
+        "avgTemp": "21.9",
+        "minTemp": "16.0",
+        "maxTemp": "27.6"
+    },
+    {
+        "date": "2019-06-09",
+        "location": "108",
+        "avgTemp": "21.6",
+        "minTemp": "17.1",
+        "maxTemp": "26.5"
+    },
+    {
+        "date": "2019-06-10",
+        "location": "108",
+        "avgTemp": "18.4",
+        "minTemp": "15.7",
+        "maxTemp": "21.9"
+    },
+    {
+        "date": "2019-06-11",
+        "location": "108",
+        "avgTemp": "20.5",
+        "minTemp": "15.5",
+        "maxTemp": "26.1"
+    },
+    {
+        "date": "2019-06-12",
+        "location": "108",
+        "avgTemp": "21.5",
+        "minTemp": "16.1",
+        "maxTemp": "26.4"
+    },
+    {
+        "date": "2019-06-13",
+        "location": "108",
+        "avgTemp": "23.0",
+        "minTemp": "16.6",
+        "maxTemp": "28.8"
+    },
+    {
+        "date": "2019-06-14",
+        "location": "108",
+        "avgTemp": "23.0",
+        "minTemp": "19.1",
+        "maxTemp": "28.4"
+    },
+    {
+        "date": "2019-06-15",
+        "location": "108",
+        "avgTemp": "21.9",
+        "minTemp": "17.9",
+        "maxTemp": "27.4"
+    },
+    {
+        "date": "2019-06-16",
+        "location": "108",
+        "avgTemp": "22.0",
+        "minTemp": "16.1",
+        "maxTemp": "27.2"
+    },
+    {
+        "date": "2019-06-17",
+        "location": "108",
+        "avgTemp": "21.7",
+        "minTemp": "18.1",
+        "maxTemp": "26.2"
+    },
+    {
+        "date": "2019-06-18",
+        "location": "108",
+        "avgTemp": "20.8",
+        "minTemp": "17.0",
+        "maxTemp": "24.8"
+    },
+    {
+        "date": "2019-06-19",
+        "location": "108",
+        "avgTemp": "21.4",
+        "minTemp": "18.9",
+        "maxTemp": "25.4"
+    },
+    {
+        "date": "2019-06-20",
+        "location": "108",
+        "avgTemp": "22.7",
+        "minTemp": "19.8",
+        "maxTemp": "27.8"
+    },
+    {
+        "date": "2019-06-21",
+        "location": "108",
+        "avgTemp": "22.1",
+        "minTemp": "19.4",
+        "maxTemp": "26.1"
+    },
+    {
+        "date": "2019-06-22",
+        "location": "108",
+        "avgTemp": "24.2",
+        "minTemp": "17.7",
+        "maxTemp": "30.6"
+    },
+    {
+        "date": "2019-06-23",
+        "location": "108",
+        "avgTemp": "25.0",
+        "minTemp": "19.1",
+        "maxTemp": "31.0"
+    },
+    {
+        "date": "2019-06-24",
+        "location": "108",
+        "avgTemp": "25.2",
+        "minTemp": "20.9",
+        "maxTemp": "30.9"
+    },
+    {
+        "date": "2019-06-25",
+        "location": "108",
+        "avgTemp": "25.6",
+        "minTemp": "19.5",
+        "maxTemp": "32.8"
+    },
+    {
+        "date": "2019-06-26",
+        "location": "108",
+        "avgTemp": "25.5",
+        "minTemp": "20.7",
+        "maxTemp": "29.5"
+    },
+    {
+        "date": "2019-06-27",
+        "location": "108",
+        "avgTemp": "25.5",
+        "minTemp": "21.9",
+        "maxTemp": "31.2"
+    },
+    {
+        "date": "2019-06-28",
+        "location": "108",
+        "avgTemp": "24.7",
+        "minTemp": "22.3",
+        "maxTemp": "29.0"
+    },
+    {
+        "date": "2019-06-29",
+        "location": "108",
+        "avgTemp": "23.1",
+        "minTemp": "19.6",
+        "maxTemp": "27.7"
+    },
+    {
+        "date": "2019-06-30",
+        "location": "108",
+        "avgTemp": "23.9",
+        "minTemp": "20.9",
+        "maxTemp": "28.5"
+    },
+    {
+        "date": "2019-07-01",
+        "location": "108",
+        "avgTemp": "23.9",
+        "minTemp": "20.6",
+        "maxTemp": "28.9"
+    },
+    {
+        "date": "2019-07-02",
+        "location": "108",
+        "avgTemp": "24.4",
+        "minTemp": "20.8",
+        "maxTemp": "30.1"
+    },
+    {
+        "date": "2019-07-03",
+        "location": "108",
+        "avgTemp": "24.1",
+        "minTemp": "21.2",
+        "maxTemp": "27.4"
+    },
+    {
+        "date": "2019-07-04",
+        "location": "108",
+        "avgTemp": "25.4",
+        "minTemp": "20.0",
+        "maxTemp": "32.8"
+    },
+    {
+        "date": "2019-07-05",
+        "location": "108",
+        "avgTemp": "27.6",
+        "minTemp": "20.2",
+        "maxTemp": "35.0"
+    },
+    {
+        "date": "2019-07-06",
+        "location": "108",
+        "avgTemp": "29.7",
+        "minTemp": "24.6",
+        "maxTemp": "36.1"
+    },
+    {
+        "date": "2019-07-07",
+        "location": "108",
+        "avgTemp": "26.7",
+        "minTemp": "22.7",
+        "maxTemp": "32.5"
+    },
+    {
+        "date": "2019-07-08",
+        "location": "108",
+        "avgTemp": "25.1",
+        "minTemp": "21.2",
+        "maxTemp": "31.0"
+    },
+    {
+        "date": "2019-07-09",
+        "location": "108",
+        "avgTemp": "25.0",
+        "minTemp": "19.7",
+        "maxTemp": "30.0"
+    },
+    {
+        "date": "2019-07-10",
+        "location": "108",
+        "avgTemp": "22.7",
+        "minTemp": "19.3",
+        "maxTemp": "27.3"
+    },
+    {
+        "date": "2019-07-11",
+        "location": "108",
+        "avgTemp": "21.9",
+        "minTemp": "19.5",
+        "maxTemp": "25.9"
+    },
+    {
+        "date": "2019-07-12",
+        "location": "108",
+        "avgTemp": "23.6",
+        "minTemp": "20.0",
+        "maxTemp": "28.7"
+    },
+    {
+        "date": "2019-07-13",
+        "location": "108",
+        "avgTemp": "24.9",
+        "minTemp": "22.1",
+        "maxTemp": "29.7"
+    },
+    {
+        "date": "2019-07-14",
+        "location": "108",
+        "avgTemp": "25.9",
+        "minTemp": "21.2",
+        "maxTemp": "31.6"
+    },
+    {
+        "date": "2019-07-15",
+        "location": "108",
+        "avgTemp": "23.8",
+        "minTemp": "22.1",
+        "maxTemp": "27.4"
+    },
+    {
+        "date": "2019-07-16",
+        "location": "108",
+        "avgTemp": "24.7",
+        "minTemp": "21.4",
+        "maxTemp": "28.8"
+    },
+    {
+        "date": "2019-07-17",
+        "location": "108",
+        "avgTemp": "25.6",
+        "minTemp": "22.3",
+        "maxTemp": "29.2"
+    },
+    {
+        "date": "2019-07-18",
+        "location": "108",
+        "avgTemp": "26.9",
+        "minTemp": "23.3",
+        "maxTemp": "32.1"
+    },
+    {
+        "date": "2019-07-19",
+        "location": "108",
+        "avgTemp": "28.6",
+        "minTemp": "22.8",
+        "maxTemp": "35.0"
+    },
+    {
+        "date": "2019-07-20",
+        "location": "108",
+        "avgTemp": "28.0",
+        "minTemp": "25.1",
+        "maxTemp": "31.9"
+    },
+    {
+        "date": "2019-07-21",
+        "location": "108",
+        "avgTemp": "25.1",
+        "minTemp": "24.2",
+        "maxTemp": "27.0"
+    },
+    {
+        "date": "2019-07-22",
+        "location": "108",
+        "avgTemp": "26.7",
+        "minTemp": "24.2",
+        "maxTemp": "31.0"
+    },
+    {
+        "date": "2019-07-23",
+        "location": "108",
+        "avgTemp": "28.1",
+        "minTemp": "24.4",
+        "maxTemp": "32.9"
+    },
+    {
+        "date": "2019-07-24",
+        "location": "108",
+        "avgTemp": "26.5",
+        "minTemp": "25.2",
+        "maxTemp": "27.2"
+    },
+    {
+        "date": "2019-07-25",
+        "location": "108",
+        "avgTemp": "26.3",
+        "minTemp": "25.6",
+        "maxTemp": "27.4"
+    },
+    {
+        "date": "2019-07-26",
+        "location": "108",
+        "avgTemp": "25.1",
+        "minTemp": "23.7",
+        "maxTemp": "25.9"
+    },
+    {
+        "date": "2019-07-27",
+        "location": "108",
+        "avgTemp": "28.4",
+        "minTemp": "24.9",
+        "maxTemp": "33.4"
+    },
+    {
+        "date": "2019-07-28",
+        "location": "108",
+        "avgTemp": "26.1",
+        "minTemp": "25.0",
+        "maxTemp": "28.2"
+    },
+    {
+        "date": "2019-07-29",
+        "location": "108",
+        "avgTemp": "27.5",
+        "minTemp": "25.6",
+        "maxTemp": "30.0"
+    },
+    {
+        "date": "2019-07-30",
+        "location": "108",
+        "avgTemp": "28.1",
+        "minTemp": "26.3",
+        "maxTemp": "30.8"
+    },
+    {
+        "date": "2019-07-31",
+        "location": "108",
+        "avgTemp": "25.8",
+        "minTemp": "24.0",
+        "maxTemp": "27.5"
+    },
+    {
+        "date": "2019-08-01",
+        "location": "108",
+        "avgTemp": "26.3",
+        "minTemp": "23.5",
+        "maxTemp": "30.1"
+    },
+    {
+        "date": "2019-08-02",
+        "location": "108",
+        "avgTemp": "28.4",
+        "minTemp": "24.7",
+        "maxTemp": "33.1"
+    },
+    {
+        "date": "2019-08-03",
+        "location": "108",
+        "avgTemp": "29.4",
+        "minTemp": "25.6",
+        "maxTemp": "36.0"
+    },
+    {
+        "date": "2019-08-04",
+        "location": "108",
+        "avgTemp": "28.3",
+        "minTemp": "25.0",
+        "maxTemp": "34.4"
+    },
+    {
+        "date": "2019-08-05",
+        "location": "108",
+        "avgTemp": "30.5",
+        "minTemp": "25.6",
+        "maxTemp": "35.9"
+    },
+    {
+        "date": "2019-08-06",
+        "location": "108",
+        "avgTemp": "31.6",
+        "minTemp": "27.9",
+        "maxTemp": "36.8"
+    },
+    {
+        "date": "2019-08-07",
+        "location": "108",
+        "avgTemp": "26.9",
+        "minTemp": "23.9",
+        "maxTemp": "30.3"
+    },
+    {
+        "date": "2019-08-08",
+        "location": "108",
+        "avgTemp": "28.9",
+        "minTemp": "25.9",
+        "maxTemp": "32.7"
+    },
+    {
+        "date": "2019-08-09",
+        "location": "108",
+        "avgTemp": "29.8",
+        "minTemp": "26.0",
+        "maxTemp": "34.6"
+    },
+    {
+        "date": "2019-08-10",
+        "location": "108",
+        "avgTemp": "31.5",
+        "minTemp": "26.6",
+        "maxTemp": "36.5"
+    },
+    {
+        "date": "2019-08-11",
+        "location": "108",
+        "avgTemp": "30.4",
+        "minTemp": "26.3",
+        "maxTemp": "35.7"
+    },
+    {
+        "date": "2019-08-12",
+        "location": "108",
+        "avgTemp": "26.6",
+        "minTemp": "24.8",
+        "maxTemp": "28.5"
+    },
+    {
+        "date": "2019-08-13",
+        "location": "108",
+        "avgTemp": "29.2",
+        "minTemp": "25.1",
+        "maxTemp": "35.3"
+    },
+    {
+        "date": "2019-08-14",
+        "location": "108",
+        "avgTemp": "30.4",
+        "minTemp": "25.9",
+        "maxTemp": "35.7"
+    },
+    {
+        "date": "2019-08-15",
+        "location": "108",
+        "avgTemp": "25.9",
+        "minTemp": "23.9",
+        "maxTemp": "28.6"
+    },
+    {
+        "date": "2019-08-16",
+        "location": "108",
+        "avgTemp": "25.9",
+        "minTemp": "23.0",
+        "maxTemp": "29.5"
+    },
+    {
+        "date": "2019-08-17",
+        "location": "108",
+        "avgTemp": "25.9",
+        "minTemp": "23.4",
+        "maxTemp": "28.8"
+    },
+    {
+        "date": "2019-08-18",
+        "location": "108",
+        "avgTemp": "25.6",
+        "minTemp": "22.6",
+        "maxTemp": "30.7"
+    },
+    {
+        "date": "2019-08-19",
+        "location": "108",
+        "avgTemp": "26.3",
+        "minTemp": "21.2",
+        "maxTemp": "31.3"
+    },
+    {
+        "date": "2019-08-20",
+        "location": "108",
+        "avgTemp": "28.2",
+        "minTemp": "23.2",
+        "maxTemp": "32.8"
+    },
+    {
+        "date": "2019-08-21",
+        "location": "108",
+        "avgTemp": "27.0",
+        "minTemp": "24.4",
+        "maxTemp": "30.4"
+    },
+    {
+        "date": "2019-08-22",
+        "location": "108",
+        "avgTemp": "26.9",
+        "minTemp": "23.0",
+        "maxTemp": "31.4"
+    },
+    {
+        "date": "2019-08-23",
+        "location": "108",
+        "avgTemp": "26.2",
+        "minTemp": "22.7",
+        "maxTemp": "30.5"
+    },
+    {
+        "date": "2019-08-24",
+        "location": "108",
+        "avgTemp": "24.1",
+        "minTemp": "21.5",
+        "maxTemp": "27.3"
+    },
+    {
+        "date": "2019-08-25",
+        "location": "108",
+        "avgTemp": "25.0",
+        "minTemp": "20.2",
+        "maxTemp": "29.9"
+    },
+    {
+        "date": "2019-08-26",
+        "location": "108",
+        "avgTemp": "26.4",
+        "minTemp": "21.5",
+        "maxTemp": "32.1"
+    },
+    {
+        "date": "2019-08-27",
+        "location": "108",
+        "avgTemp": "25.7",
+        "minTemp": "22.2",
+        "maxTemp": "29.3"
+    },
+    {
+        "date": "2019-08-28",
+        "location": "108",
+        "avgTemp": "26.1",
+        "minTemp": "23.6",
+        "maxTemp": "30.2"
+    },
+    {
+        "date": "2019-08-29",
+        "location": "108",
+        "avgTemp": "23.4",
+        "minTemp": "20.1",
+        "maxTemp": "26.4"
+    },
+    {
+        "date": "2019-08-30",
+        "location": "108",
+        "avgTemp": "22.6",
+        "minTemp": "19.5",
+        "maxTemp": "27.0"
+    },
+    {
+        "date": "2019-08-31",
+        "location": "108",
+        "avgTemp": "23.5",
+        "minTemp": "18.5",
+        "maxTemp": "28.9"
+    },
+    {
+        "date": "2019-09-01",
+        "location": "108",
+        "avgTemp": "23.7",
+        "minTemp": "19.2",
+        "maxTemp": "27.8"
+    },
+    {
+        "date": "2019-09-02",
+        "location": "108",
+        "avgTemp": "24.4",
+        "minTemp": "19.4",
+        "maxTemp": "29.7"
+    },
+    {
+        "date": "2019-09-03",
+        "location": "108",
+        "avgTemp": "24.1",
+        "minTemp": "22.0",
+        "maxTemp": "28.0"
+    },
+    {
+        "date": "2019-09-04",
+        "location": "108",
+        "avgTemp": "22.8",
+        "minTemp": "21.2",
+        "maxTemp": "25.5"
+    },
+    {
+        "date": "2019-09-05",
+        "location": "108",
+        "avgTemp": "23.0",
+        "minTemp": "21.5",
+        "maxTemp": "27.6"
+    },
+    {
+        "date": "2019-09-06",
+        "location": "108",
+        "avgTemp": "25.3",
+        "minTemp": "21.6",
+        "maxTemp": "29.1"
+    },
+    {
+        "date": "2019-09-07",
+        "location": "108",
+        "avgTemp": "25.7",
+        "minTemp": "22.6",
+        "maxTemp": "29.5"
+    },
+    {
+        "date": "2019-09-08",
+        "location": "108",
+        "avgTemp": "24.7",
+        "minTemp": "22.9",
+        "maxTemp": "27.3"
+    },
+    {
+        "date": "2019-09-09",
+        "location": "108",
+        "avgTemp": "25.1",
+        "minTemp": "22.4",
+        "maxTemp": "28.0"
+    },
+    {
+        "date": "2019-09-10",
+        "location": "108",
+        "avgTemp": "23.8",
+        "minTemp": "22.1",
+        "maxTemp": "26.5"
+    },
+    {
+        "date": "2019-09-11",
+        "location": "108",
+        "avgTemp": "24.3",
+        "minTemp": "20.4",
+        "maxTemp": "28.7"
+    },
+    {
+        "date": "2019-09-12",
+        "location": "108",
+        "avgTemp": "21.0",
+        "minTemp": "18.7",
+        "maxTemp": "22.9"
+    },
+    {
+        "date": "2019-09-13",
+        "location": "108",
+        "avgTemp": "23.3",
+        "minTemp": "18.3",
+        "maxTemp": "29.3"
+    },
+    {
+        "date": "2019-09-14",
+        "location": "108",
+        "avgTemp": "22.4",
+        "minTemp": "20.8",
+        "maxTemp": "24.1"
+    },
+    {
+        "date": "2019-09-15",
+        "location": "108",
+        "avgTemp": "24.2",
+        "minTemp": "19.5",
+        "maxTemp": "30.0"
+    },
+    {
+        "date": "2019-09-16",
+        "location": "108",
+        "avgTemp": "24.5",
+        "minTemp": "20.7",
+        "maxTemp": "30.5"
+    },
+    {
+        "date": "2019-09-17",
+        "location": "108",
+        "avgTemp": "23.5",
+        "minTemp": "18.0",
+        "maxTemp": "29.0"
+    },
+    {
+        "date": "2019-09-18",
+        "location": "108",
+        "avgTemp": "21.0",
+        "minTemp": "16.0",
+        "maxTemp": "25.4"
+    },
+    {
+        "date": "2019-09-19",
+        "location": "108",
+        "avgTemp": "19.5",
+        "minTemp": "13.6",
+        "maxTemp": "26.0"
+    },
+    {
+        "date": "2019-09-20",
+        "location": "108",
+        "avgTemp": "19.6",
+        "minTemp": "15.8",
+        "maxTemp": "24.2"
+    },
+    {
+        "date": "2019-09-21",
+        "location": "108",
+        "avgTemp": "19.6",
+        "minTemp": "18.3",
+        "maxTemp": "22.1"
+    },
+    {
+        "date": "2019-09-22",
+        "location": "108",
+        "avgTemp": "18.6",
+        "minTemp": "17.3",
+        "maxTemp": "19.6"
+    },
+    {
+        "date": "2019-09-23",
+        "location": "108",
+        "avgTemp": "20.0",
+        "minTemp": "16.9",
+        "maxTemp": "24.6"
+    },
+    {
+        "date": "2019-09-24",
+        "location": "108",
+        "avgTemp": "19.8",
+        "minTemp": "13.9",
+        "maxTemp": "26.5"
+    },
+    {
+        "date": "2019-09-25",
+        "location": "108",
+        "avgTemp": "20.9",
+        "minTemp": "14.8",
+        "maxTemp": "27.4"
+    },
+    {
+        "date": "2019-09-26",
+        "location": "108",
+        "avgTemp": "22.9",
+        "minTemp": "17.7",
+        "maxTemp": "29.0"
+    },
+    {
+        "date": "2019-09-27",
+        "location": "108",
+        "avgTemp": "22.9",
+        "minTemp": "19.6",
+        "maxTemp": "27.0"
+    },
+    {
+        "date": "2019-09-28",
+        "location": "108",
+        "avgTemp": "23.7",
+        "minTemp": "19.4",
+        "maxTemp": "29.2"
+    },
+    {
+        "date": "2019-09-29",
+        "location": "108",
+        "avgTemp": "22.6",
+        "minTemp": "17.9",
+        "maxTemp": "28.6"
+    },
+    {
+        "date": "2019-09-30",
+        "location": "108",
+        "avgTemp": "22.4",
+        "minTemp": "16.4",
+        "maxTemp": "29.9"
+    },
+    {
+        "date": "2019-10-01",
+        "location": "108",
+        "avgTemp": "23.1",
+        "minTemp": "17.6",
+        "maxTemp": "28.2"
+    },
+    {
+        "date": "2019-10-02",
+        "location": "108",
+        "avgTemp": "21.6",
+        "minTemp": "20.0",
+        "maxTemp": "24.2"
+    },
+    {
+        "date": "2019-10-03",
+        "location": "108",
+        "avgTemp": "22.4",
+        "minTemp": "19.8",
+        "maxTemp": "27.3"
+    },
+    {
+        "date": "2019-10-04",
+        "location": "108",
+        "avgTemp": "22.4",
+        "minTemp": "18.0",
+        "maxTemp": "27.8"
+    },
+    {
+        "date": "2019-10-05",
+        "location": "108",
+        "avgTemp": "18.7",
+        "minTemp": "14.7",
+        "maxTemp": "21.9"
+    },
+    {
+        "date": "2019-10-06",
+        "location": "108",
+        "avgTemp": "18.1",
+        "minTemp": "13.2",
+        "maxTemp": "22.7"
+    },
+    {
+        "date": "2019-10-07",
+        "location": "108",
+        "avgTemp": "14.8",
+        "minTemp": "13.3",
+        "maxTemp": "17.9"
+    },
+    {
+        "date": "2019-10-08",
+        "location": "108",
+        "avgTemp": "14.7",
+        "minTemp": "10.6",
+        "maxTemp": "19.8"
+    },
+    {
+        "date": "2019-10-09",
+        "location": "108",
+        "avgTemp": "13.6",
+        "minTemp": "7.7",
+        "maxTemp": "20.4"
+    },
+    {
+        "date": "2019-10-10",
+        "location": "108",
+        "avgTemp": "15.2",
+        "minTemp": "10.7",
+        "maxTemp": "19.8"
+    },
+    {
+        "date": "2019-10-11",
+        "location": "108",
+        "avgTemp": "18.8",
+        "minTemp": "13.0",
+        "maxTemp": "26.1"
+    },
+    {
+        "date": "2019-10-12",
+        "location": "108",
+        "avgTemp": "17.9",
+        "minTemp": "13.3",
+        "maxTemp": "23.3"
+    },
+    {
+        "date": "2019-10-13",
+        "location": "108",
+        "avgTemp": "17.2",
+        "minTemp": "12.1",
+        "maxTemp": "23.8"
+    },
+    {
+        "date": "2019-10-14",
+        "location": "108",
+        "avgTemp": "14.4",
+        "minTemp": "9.5",
+        "maxTemp": "19.6"
+    },
+    {
+        "date": "2019-10-15",
+        "location": "108",
+        "avgTemp": "14.5",
+        "minTemp": "8.8",
+        "maxTemp": "20.4"
+    },
+    {
+        "date": "2019-10-16",
+        "location": "108",
+        "avgTemp": "14.6",
+        "minTemp": "9.0",
+        "maxTemp": "20.8"
+    },
+    {
+        "date": "2019-10-17",
+        "location": "108",
+        "avgTemp": "15.4",
+        "minTemp": "11.2",
+        "maxTemp": "21.6"
+    },
+    {
+        "date": "2019-10-18",
+        "location": "108",
+        "avgTemp": "17.0",
+        "minTemp": "12.0",
+        "maxTemp": "22.7"
+    },
+    {
+        "date": "2019-10-19",
+        "location": "108",
+        "avgTemp": "17.0",
+        "minTemp": "12.1",
+        "maxTemp": "23.1"
+    },
+    {
+        "date": "2019-10-20",
+        "location": "108",
+        "avgTemp": "16.5",
+        "minTemp": "12.0",
+        "maxTemp": "22.9"
+    },
+    {
+        "date": "2019-10-21",
+        "location": "108",
+        "avgTemp": "17.1",
+        "minTemp": "10.9",
+        "maxTemp": "24.6"
+    },
+    {
+        "date": "2019-10-22",
+        "location": "108",
+        "avgTemp": "18.1",
+        "minTemp": "13.3",
+        "maxTemp": "24.4"
+    },
+    {
+        "date": "2019-10-23",
+        "location": "108",
+        "avgTemp": "17.0",
+        "minTemp": "14.3",
+        "maxTemp": "20.7"
+    },
+    {
+        "date": "2019-10-24",
+        "location": "108",
+        "avgTemp": "18.3",
+        "minTemp": "15.3",
+        "maxTemp": "23.8"
+    },
+    {
+        "date": "2019-10-25",
+        "location": "108",
+        "avgTemp": "16.7",
+        "minTemp": "13.1",
+        "maxTemp": "22.0"
+    },
+    {
+        "date": "2019-10-26",
+        "location": "108",
+        "avgTemp": "10.0",
+        "minTemp": "6.6",
+        "maxTemp": "14.9"
+    },
+    {
+        "date": "2019-10-27",
+        "location": "108",
+        "avgTemp": "11.0",
+        "minTemp": "4.7",
+        "maxTemp": "17.4"
+    },
+    {
+        "date": "2019-10-28",
+        "location": "108",
+        "avgTemp": "12.9",
+        "minTemp": "7.4",
+        "maxTemp": "17.7"
+    },
+    {
+        "date": "2019-10-29",
+        "location": "108",
+        "avgTemp": "12.5",
+        "minTemp": "8.2",
+        "maxTemp": "17.6"
+    },
+    {
+        "date": "2019-10-30",
+        "location": "108",
+        "avgTemp": "11.2",
+        "minTemp": "5.0",
+        "maxTemp": "17.7"
+    },
+    {
+        "date": "2019-10-31",
+        "location": "108",
+        "avgTemp": "14.8",
+        "minTemp": "8.4",
+        "maxTemp": "19.7"
+    },
+    {
+        "date": "2019-11-01",
+        "location": "108",
+        "avgTemp": "14.9",
+        "minTemp": "11.4",
+        "maxTemp": "20.5"
+    },
+    {
+        "date": "2019-11-02",
+        "location": "108",
+        "avgTemp": "13.6",
+        "minTemp": "8.3",
+        "maxTemp": "18.7"
+    },
+    {
+        "date": "2019-11-03",
+        "location": "108",
+        "avgTemp": "14.7",
+        "minTemp": "9.4",
+        "maxTemp": "22.1"
+    },
+    {
+        "date": "2019-11-04",
+        "location": "108",
+        "avgTemp": "13.8",
+        "minTemp": "9.2",
+        "maxTemp": "20.3"
+    },
+    {
+        "date": "2019-11-05",
+        "location": "108",
+        "avgTemp": "12.4",
+        "minTemp": "8.4",
+        "maxTemp": "18.4"
+    },
+    {
+        "date": "2019-11-06",
+        "location": "108",
+        "avgTemp": "11.0",
+        "minTemp": "6.3",
+        "maxTemp": "16.5"
+    },
+    {
+        "date": "2019-11-07",
+        "location": "108",
+        "avgTemp": "9.2",
+        "minTemp": "5.0",
+        "maxTemp": "13.6"
+    },
+    {
+        "date": "2019-11-08",
+        "location": "108",
+        "avgTemp": "6.8",
+        "minTemp": "1.1",
+        "maxTemp": "13.0"
+    },
+    {
+        "date": "2019-11-09",
+        "location": "108",
+        "avgTemp": "9.5",
+        "minTemp": "3.5",
+        "maxTemp": "17.2"
+    },
+    {
+        "date": "2019-11-10",
+        "location": "108",
+        "avgTemp": "10.0",
+        "minTemp": "6.2",
+        "maxTemp": "15.3"
+    },
+    {
+        "date": "2019-11-11",
+        "location": "108",
+        "avgTemp": "11.2",
+        "minTemp": "7.9",
+        "maxTemp": "15.1"
+    },
+    {
+        "date": "2019-11-12",
+        "location": "108",
+        "avgTemp": "9.3",
+        "minTemp": "4.8",
+        "maxTemp": "14.5"
+    },
+    {
+        "date": "2019-11-13",
+        "location": "108",
+        "avgTemp": "7.2",
+        "minTemp": "3.0",
+        "maxTemp": "11.3"
+    },
+    {
+        "date": "2019-11-14",
+        "location": "108",
+        "avgTemp": "1.3",
+        "minTemp": "-2.5",
+        "maxTemp": "5.0"
+    },
+    {
+        "date": "2019-11-15",
+        "location": "108",
+        "avgTemp": "5.6",
+        "minTemp": "1.4",
+        "maxTemp": "7.6"
+    },
+    {
+        "date": "2019-11-16",
+        "location": "108",
+        "avgTemp": "6.8",
+        "minTemp": "3.8",
+        "maxTemp": "12.7"
+    },
+    {
+        "date": "2019-11-17",
+        "location": "108",
+        "avgTemp": "8.3",
+        "minTemp": "5.6",
+        "maxTemp": "10.5"
+    },
+    {
+        "date": "2019-11-18",
+        "location": "108",
+        "avgTemp": "4.6",
+        "minTemp": "0.4",
+        "maxTemp": "12.7"
+    },
+    {
+        "date": "2019-11-19",
+        "location": "108",
+        "avgTemp": "0.2",
+        "minTemp": "-3.5",
+        "maxTemp": "4.0"
+    },
+    {
+        "date": "2019-11-20",
+        "location": "108",
+        "avgTemp": "0.5",
+        "minTemp": "-4.6",
+        "maxTemp": "6.3"
+    },
+    {
+        "date": "2019-11-21",
+        "location": "108",
+        "avgTemp": "4.2",
+        "minTemp": "-2.3",
+        "maxTemp": "9.0"
+    },
+    {
+        "date": "2019-11-22",
+        "location": "108",
+        "avgTemp": "9.7",
+        "minTemp": "3.0",
+        "maxTemp": "17.3"
+    },
+    {
+        "date": "2019-11-23",
+        "location": "108",
+        "avgTemp": "12.1",
+        "minTemp": "7.7",
+        "maxTemp": "17.7"
+    },
+    {
+        "date": "2019-11-24",
+        "location": "108",
+        "avgTemp": "9.8",
+        "minTemp": "4.6",
+        "maxTemp": "15.6"
+    },
+    {
+        "date": "2019-11-25",
+        "location": "108",
+        "avgTemp": "1.9",
+        "minTemp": "-1.2",
+        "maxTemp": "6.0"
+    },
+    {
+        "date": "2019-11-26",
+        "location": "108",
+        "avgTemp": "6.6",
+        "minTemp": "1.2",
+        "maxTemp": "13.7"
+    },
+    {
+        "date": "2019-11-27",
+        "location": "108",
+        "avgTemp": "3.1",
+        "minTemp": "0.3",
+        "maxTemp": "6.8"
+    },
+    {
+        "date": "2019-11-28",
+        "location": "108",
+        "avgTemp": "3.5",
+        "minTemp": "-0.6",
+        "maxTemp": "10.4"
+    },
+    {
+        "date": "2019-11-29",
+        "location": "108",
+        "avgTemp": "1.5",
+        "minTemp": "-3.4",
+        "maxTemp": "6.9"
+    },
+    {
+        "date": "2019-11-30",
+        "location": "108",
+        "avgTemp": "4.1",
+        "minTemp": "-1.4",
+        "maxTemp": "9.3"
+    },
+    {
+        "date": "2019-12-01",
+        "location": "108",
+        "avgTemp": "4.6",
+        "minTemp": "2.3",
+        "maxTemp": "6.2"
+    },
+    {
+        "date": "2019-12-02",
+        "location": "108",
+        "avgTemp": "-0.1",
+        "minTemp": "-3.2",
+        "maxTemp": "2.8"
+    },
+    {
+        "date": "2019-12-03",
+        "location": "108",
+        "avgTemp": "0.5",
+        "minTemp": "-5.0",
+        "maxTemp": "4.2"
+    },
+    {
+        "date": "2019-12-04",
+        "location": "108",
+        "avgTemp": "2.0",
+        "minTemp": "-2.0",
+        "maxTemp": "7.2"
+    },
+    {
+        "date": "2019-12-05",
+        "location": "108",
+        "avgTemp": "-4.4",
+        "minTemp": "-8.5",
+        "maxTemp": "-0.2"
+    },
+    {
+        "date": "2019-12-06",
+        "location": "108",
+        "avgTemp": "-5.9",
+        "minTemp": "-10.6",
+        "maxTemp": "-1.0"
+    },
+    {
+        "date": "2019-12-07",
+        "location": "108",
+        "avgTemp": "-2.4",
+        "minTemp": "-5.5",
+        "maxTemp": "1.2"
+    },
+    {
+        "date": "2019-12-08",
+        "location": "108",
+        "avgTemp": "-0.9",
+        "minTemp": "-5.5",
+        "maxTemp": "4.9"
+    },
+    {
+        "date": "2019-12-09",
+        "location": "108",
+        "avgTemp": "3.2",
+        "minTemp": "-1.3",
+        "maxTemp": "8.0"
+    },
+    {
+        "date": "2019-12-10",
+        "location": "108",
+        "avgTemp": "8.1",
+        "minTemp": "6.0",
+        "maxTemp": "10.8"
+    },
+    {
+        "date": "2019-12-11",
+        "location": "108",
+        "avgTemp": "6.3",
+        "minTemp": "0.1",
+        "maxTemp": "9.8"
+    },
+    {
+        "date": "2019-12-12",
+        "location": "108",
+        "avgTemp": "-0.7",
+        "minTemp": "-3.5",
+        "maxTemp": "3.4"
+    },
+    {
+        "date": "2019-12-13",
+        "location": "108",
+        "avgTemp": "2.1",
+        "minTemp": "-3.7",
+        "maxTemp": "5.9"
+    },
+    {
+        "date": "2019-12-14",
+        "location": "108",
+        "avgTemp": "2.7",
+        "minTemp": "-0.1",
+        "maxTemp": "6.4"
+    },
+    {
+        "date": "2019-12-15",
+        "location": "108",
+        "avgTemp": "5.3",
+        "minTemp": "0.4",
+        "maxTemp": "11.0"
+    },
+    {
+        "date": "2019-12-16",
+        "location": "108",
+        "avgTemp": "7.8",
+        "minTemp": "2.1",
+        "maxTemp": "12.9"
+    },
+    {
+        "date": "2019-12-17",
+        "location": "108",
+        "avgTemp": "7.7",
+        "minTemp": "3.2",
+        "maxTemp": "10.2"
+    },
+    {
+        "date": "2019-12-18",
+        "location": "108",
+        "avgTemp": "0.8",
+        "minTemp": "-1.7",
+        "maxTemp": "5.2"
+    },
+    {
+        "date": "2019-12-19",
+        "location": "108",
+        "avgTemp": "-0.8",
+        "minTemp": "-4.5",
+        "maxTemp": "3.1"
+    },
+    {
+        "date": "2019-12-20",
+        "location": "108",
+        "avgTemp": "-1.1",
+        "minTemp": "-3.5",
+        "maxTemp": "2.0"
+    },
+    {
+        "date": "2019-12-21",
+        "location": "108",
+        "avgTemp": "-1.2",
+        "minTemp": "-5.1",
+        "maxTemp": "1.5"
+    },
+    {
+        "date": "2019-12-22",
+        "location": "108",
+        "avgTemp": "4.1",
+        "minTemp": "0.3",
+        "maxTemp": "8.4"
+    },
+    {
+        "date": "2019-12-23",
+        "location": "108",
+        "avgTemp": "3.4",
+        "minTemp": "0.3",
+        "maxTemp": "5.2"
+    },
+    {
+        "date": "2019-12-24",
+        "location": "108",
+        "avgTemp": "0.8",
+        "minTemp": "-2.9",
+        "maxTemp": "6.5"
+    },
+    {
+        "date": "2019-12-25",
+        "location": "108",
+        "avgTemp": "2.0",
+        "minTemp": "-2.7",
+        "maxTemp": "6.6"
+    },
+    {
+        "date": "2019-12-26",
+        "location": "108",
+        "avgTemp": "2.0",
+        "minTemp": "-2.4",
+        "maxTemp": "4.1"
+    },
+    {
+        "date": "2019-12-27",
+        "location": "108",
+        "avgTemp": "-1.7",
+        "minTemp": "-4.6",
+        "maxTemp": "2.6"
+    },
+    {
+        "date": "2019-12-28",
+        "location": "108",
+        "avgTemp": "1.1",
+        "minTemp": "-3.6",
+        "maxTemp": "6.1"
+    },
+    {
+        "date": "2019-12-29",
+        "location": "108",
+        "avgTemp": "3.8",
+        "minTemp": "1.1",
+        "maxTemp": "6.2"
+    },
+    {
+        "date": "2019-12-30",
+        "location": "108",
+        "avgTemp": "2.7",
+        "minTemp": "-5.7",
+        "maxTemp": "6.8"
+    },
+    {
+        "date": "2019-12-31",
+        "location": "108",
+        "avgTemp": "-7.9",
+        "minTemp": "-10.9",
+        "maxTemp": "-4.5"
+    }
+]
