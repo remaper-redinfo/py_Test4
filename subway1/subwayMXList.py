@@ -1,5 +1,5 @@
 import csv
-f = open('subwaySearch/2020년 06월  교통카드 통계자료.csv')
+f = open('subway1/2020년 06월  교통카드 통계자료.csv')
 data = csv.reader(f)
 
 rate = 0.0
@@ -12,7 +12,7 @@ for row in data:
         row[i] = int(row[i])
     if row[6] != 0 and (row[4]+row[6]) > 10000:
         rate = row[4]/(row[4]+row[6])
-        if rate > 0.95:
+        if rate > 0.90:
             mx = rate
             mx_list.append(row)
 
