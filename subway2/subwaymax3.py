@@ -1,6 +1,6 @@
 import csv
 import matplotlib.pyplot as plt
-f = open('subwaySearch2/2020년 06월  교통카드 통계자료2.csv')
+f = open('subway2/2020년 06월  교통카드 통계자료2.csv')
 data = csv.reader(f)
 
 s_in = [0] * 24
