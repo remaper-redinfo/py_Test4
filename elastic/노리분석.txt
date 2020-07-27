@@ -1,0 +1,90 @@
+DELETE stations
+GET stations/_mapping
+GET stations/_search
+
+PUT stations/_bulk
+{"index": {"_id": "1"}}
+{"station":"홍대입구"}
+{"index": {"_id": "2"}}
+{"station":"서울대입구"}
+{"index": {"_id": "3"}}
+{"station":"총신대입구(이수)"}
+{"index": {"_id": "4"}}
+{"station":"충정로(경기대입구)"}
+{"index": {"_id": "5"}}
+{"station":"성신여대입구(돈암)"}
+{"index": {"_id": "6"}}
+{"station":"숭실대입구(살피재)"}
+{"index": {"_id": "7"}}
+{"station":"청량리(서울시립대입구)"}
+{"index": {"_id": "8"}}
+{"station":"한성대입구"}
+{"index": {"_id": "9"}}
+{"station":"숙대입구"}
+{"index": {"_id": "10"}}
+{"station":"남한산성입구"}
+
+PUT stations
+{
+  "settings": {
+    "analysis": {
+      "analyzer": {
+        "nori": {
+          "tokenizer" : "nori_tokenizer"
+        }
+      }
+    }
+  },
+  "mappings": {
+    "properties": {
+      "station": {
+        "type": "text",
+        "fields": {
+          "nori" : {
+            "type" : "text",
+            "analyzer" : "nori"
+          }
+        }
+      }
+    }
+  }
+}
+
+PUT stations
+{
+  "settings": {
+    "analysis": {
+      "analyzer": {
+        "nori": {
+          "tokenizer": "nori_tokenizer"
+        }
+      }
+    }
+  },
+  "mappings": {
+    "properties": {
+      "station": {
+        "type": "text",
+        "fields": {
+          "nori": {
+            "type": "text",
+            "analyzer": "nori"
+          }
+        }
+      }
+    }
+  }
+}
+
+GET stations/_search
+{
+  "query": {
+    "match": {
+      "station.nori": "입구"
+    }
+  }
+}
+
+GET stations/_termvectors/1?fields=station.nori
+
+GET stations/_termvectors/1?fields=station
