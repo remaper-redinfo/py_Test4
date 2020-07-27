@@ -1,0 +1,254 @@
+DELETE stations
+GET stations/_mapping
+GET stations/_doc/11
+
+GET stations/_termvectors/1?fields=station.nori_
+
+GET stations/_termvectors/11?fields=station
+
+PUT stations/_bulk
+{"index": {"_id": "1"}}
+{"station":"홍대입구"}
+{"index": {"_id": "2"}}
+{"station":"서울대입구"}
+{"index": {"_id": "3"}}
+{"station":"총신대입구(이수)"}
+{"index": {"_id": "4"}}
+{"station":"충정로(경기대입구)"}
+{"index": {"_id": "5"}}
+{"station":"성신여대입구(돈암)"}
+{"index": {"_id": "6"}}
+{"station":"숭실대입구(살피재)"}
+{"index": {"_id": "7"}}
+{"station":"청량리(서울시립대입구)"}
+{"index": {"_id": "8"}}
+{"station":"한성대입구"}
+{"index": {"_id": "9"}}
+{"station":"숙대입구"}
+{"index": {"_id": "10"}}
+{"station":"남한산성입구"}
+
+PUT stations/_doc/11
+{
+  "station" : "안녕하세요안녕하세안녕하세요"
+}
+
+PUT stations
+{
+  "settings": {
+    "analysis": {
+      "analyzer": {
+        "nori_none": {
+          "tokenizer": "nori_t_none"
+        },
+        "nori_discard" :{
+          "tokenizer": "nori_t_discard"
+        },
+        "nori_mixed" : {
+          "tokenizer": "nori_t_mixed"
+        }
+      },
+      "tokenizer": {
+        "nori_t_none":{
+          "type": "nori_tokenizer",
+          "decompound_mode": "none"
+        },
+        "nori_t_discard":{
+          "type": "nori_tokenizer",
+          "decompound_mode": "discard"
+        },
+      "nori_t_mixed":{
+          "type": "nori_tokenizer",
+          "decompound_mode": "mixed"        
+        }
+      }
+    }
+  },
+  "mappings": {
+    "properties": {
+      "station": {
+        "type": "text",
+        "fields": {
+          "nori_none" : {
+            "type" : "text",
+            "analyzer" : "nori_none",
+            "search_analyzer" : "standard" 
+          },
+          "nori_discard" : {
+            "type" : "text",
+            "analyzer" : "nori_discard",
+            "search_analyzer" : "standard" 
+          },
+          "nori_mixed" : {
+            "type" : "text",
+            "analyzer" : "nori_mixed",
+            "search_analyzer" : "standard" 
+          }
+        }
+      }
+    }
+  }
+}
+
+GET stations/_termvectors/2?fields=station.nori_discard
+
+PUT stations
+{
+  "settings": {
+    "analysis": {
+      "analyzer": {
+        "nori": {
+          "tokenizer": "nori_tokenizer"
+        }
+      }
+    }
+  },
+  "mappings": {
+    "properties": {
+      "station": {
+        "type": "text",
+        "fields": {
+          "nori": {
+            "type": "text",
+            "analyzer": "nori"
+          },
+          "nori2": {
+            "type": "text",
+            "analyzer": "nori"
+          }
+        }
+      }
+    }
+  }
+}
+GET stations/_search
+{
+  "query": {
+    "match": {
+      "station.nori_mixed":"홍대입구"
+    }
+  }
+}
+GET stations/_termvectors/1?fields=station.nori
+
+GET stations/_termvectors/1?fields=station
+
+
+
+GET _analyze
+{
+  "tokenizer": "standard",
+  "text": [
+    "동해물과 백두산이"
+  ]
+}
+
+GET _analyze
+{
+  "tokenizer": "nori_tokenizer",
+  "text": [
+    "동해물과"
+  ]
+}
+
+PUT my_nori2
+{
+  "settings": {
+    "analysis": {
+      "tokenizer": {
+        "my_nori_tokenizer": {
+          "type": "nori_tokenizer",
+          "user_dictionary_rules": [
+            "해물"
+          ]
+        }
+      }
+    }
+  }
+}
+
+GET my_nori2/_analyze
+{
+  "tokenizer": "my_nori_tokenizer",
+  "text": [
+    "백두산이"
+  ]
+}
+
+PUT my_nori3
+{
+  "settings": {
+    "analysis": {
+      "tokenizer": {
+        "nori_none": {
+          "type": "nori_tokenizer",
+          "decompound_mode": "none"
+        },
+        "nori_discard": {
+          "type": "nori_tokenizer",
+          "decompound_mode": "discard"
+        },
+        "nori_mixed": {
+          "type": "nori_tokenizer",
+          "decompound_mode": "mixed"
+        }
+      }
+    }
+  }
+}
+
+GET my_nori3/_analyze
+{
+  "tokenizer": "nori_mixed",
+  "text": [
+    "백두산이"
+  ]
+}
+
+"stoptags": [
+  "E", "IC", "J", "MAG", "MAJ",
+  "MM", "SP", "SSC", "SSO", "SC",
+  "SE", "XPN", "XSA", "XSN", "XSV",
+  "UNA", "NA", "VSV"
+]
+
+PUT my_pos
+{
+  "settings": {
+    "index": {
+      "analysis": {
+        "filter": {
+          "my_pos_f": {
+            "type": "nori_part_of_speech",
+            "stoptags": [
+              "NR"
+            ]
+          }
+        }
+      }
+    }
+  }
+}
+
+GET my_pos/_analyze
+{
+  "tokenizer": "nori_tokenizer",
+  "filter": [
+    "my_pos_f"
+  ],
+  "text": "다섯아이가",
+  "explain": true
+}
+
+GET _analyze
+{
+  "tokenizer": "nori_tokenizer",
+  "filter": [
+    "nori_readingform"
+  ],
+  "text": "春夏秋冬"
+}
+
+
+
+
